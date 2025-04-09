@@ -2,4 +2,4 @@
 
 ### Matricula: 20230032165
 ### Nome: Gabriel Ygor Canuto
-### Email: gabrielcanuto042@gmail.com
+### Email: gabriel.canuto.037@ufrn.edu.br
