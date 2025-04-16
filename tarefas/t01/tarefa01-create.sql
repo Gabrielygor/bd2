@@ -1,6 +1,6 @@
 CREATE DATABASE db_company;
 
--- USE db_company;
+USE db_company;
 
 CREATE TABLE departamento(
     codigo INT AUTO_INCREMENT PRIMARY KEY,
