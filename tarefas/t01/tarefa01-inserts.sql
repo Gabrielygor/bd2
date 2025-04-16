@@ -1,4 +1,4 @@
--- USE db_company;
+USE db_company;
 
 -- DEPARTAMENTO
 INSERT INTO departamento (descricao) VALUES ('Financeiro');
